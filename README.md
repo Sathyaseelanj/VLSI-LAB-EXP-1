@@ -23,6 +23,8 @@ STEP:12 On the board, by giving required input, the LEDs starts to glow light, i
 
 
 
+
+
 ## Logic Gates :
 ### Logic Diagram :
 ![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/ee17970c-3ac9-4603-881b-88e2825f41a4)
